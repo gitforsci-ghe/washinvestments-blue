@@ -1,13 +1,13 @@
 ---
 title: WASH investments
 author:
-  - name: First Author
+  - name: Francesca Gioia
     orcid: 0000-0000-0000-0000
     corresponding: true
     email: first@example.com
     affiliations:
       - name: My University
-  - name: Second Author
+  - name: Jakub Tkaczuk
     orcid: 0000-0000-0000-0000
     email: second@example.com
     affiliations:
